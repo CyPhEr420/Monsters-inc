@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CyPhEr420/Monsters-inc/static/css/main.a7471ef7.css",
+    "main.js": "/CyPhEr420/Monsters-inc/static/js/main.3ef0cf5b.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/CyPhEr420/Monsters-inc/static/js/787.e4e9b7ff.chunk.js",
+    "index.html": "/CyPhEr420/Monsters-inc/index.html",
+    "main.a7471ef7.css.map": "/CyPhEr420/Monsters-inc/static/css/main.a7471ef7.css.map",
+    "main.3ef0cf5b.js.map": "/CyPhEr420/Monsters-inc/static/js/main.3ef0cf5b.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/CyPhEr420/Monsters-inc/static/js/787.e4e9b7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7471ef7.css",
+    "static/js/main.3ef0cf5b.js"
+  ]
+}
